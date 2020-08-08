@@ -1,0 +1,2 @@
+# flatness_as_generalization_metric_and_effect_of_symmetric_transformations
+project for master thesis.
